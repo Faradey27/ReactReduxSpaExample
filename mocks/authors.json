@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Douglas Crockford",
+    "title": "",
+    "shortBiography": "Computer programmer who has spent much of the last 20 years writing books about programming languages",
+    "biography": "Douglas Crockford is a computer programmer who spends most of his time writing about JavaScript and Java. His books with O'Reilly include JavaScript: The Definitive Guide, JavaScript Pocket Reference, Java in a Nutshell, Java Examples in a Nutshell, and Java Foundation Classes in a Nutshell. David has a degree in computer science and engineering from the Massachusetts Institute of Technology. He lives with his wife and children in the U.S. Pacific Northwest bewteen the cities of Seattle, Washington and Vancouver, British Columbia. David has a blog at www.davidflanagan.com. Yukihiro Matsumoto (\"Matz\"), the creator of Ruby, is a professional programmer who worked for the Japanese open source company, netlab.jp. Matz is also known as one of the open source evangelists in Japan. He's released several open source products, including cmail, the emacs-based mail user agent, written entirely in emacs lisp. Ruby is his first piece of software that has become known outside of Japan.",
+    "books": [
+      {
+        "authors": ["Douglas Crockford"],
+        "name": "JavaScript: The Good Parts",
+        "title": "",
+        "genre": ["Computers & Technology", "Programming", "JavaScript"],
+        "language": "English",
+        "numberOfPages": "176",
+        "rating": 9,
+        "shortDescription": "Unearthing the Excellence in JavaScript",
+        "description": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole—a subset you can use to create truly extensible and efficient code.",
+        "comments": []
+      },
+      {
+        "authors": ["Douglas Crockford"],
+        "name": "The Ruby Programming Language",
+        "title": "",
+        "genre": ["Computers & Technology", "Programming", "Ruby"],
+        "language": "English",
+        "numberOfPages": "448",
+        "rating": 7,
+        "shortDescription": "The Ruby Programming Language is the authoritative guide to Ruby and provides comprehensive coverage of versions 1.8 and 1.9 of the language. It was written (and illustrated!) by an all-star team:",
+        "description": "The Ruby Programming Language is the authoritative guide to Ruby and provides comprehensive coverage of versions 1.8 and 1.9 of the language. It was written (and illustrated!) by an all-star team:",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "David Flanagan",
+    "title": "",
+    "shortBiography": "Computer programmer who has spent much of the last 20 years writing books about programming languages",
+    "biography": "David Flanagan is a computer programmer who has spent much of the last 20 years writing books about programming languages. He now works at Mozilla. David lives with his wife and children in the Pacific Northwest, between the cities of Seattle and Vancouver.",
+    "books": [
+      {
+        "name": "JavaScript: The Definitive Guide: Activate Your Web Pages (Definitive Guides)",
+        "title": "",
+        "authors": ["David Flanagan"],
+        "genre": ["Computers & Technology", "Programming", "JavaScript"],
+        "language": "English",
+        "numberOfPages": "1096",
+        "rating": 8,
+        "shortDescription": "Activate Your Web Pages",
+        "description": "Since 1996, JavaScript: The Definitive Guide has been the bible for JavaScript programmers—a programmer's guide and comprehensive reference to the core language and to the client-side JavaScript APIs defined by web browsers. The 6th edition covers HTML5 and ECMAScript 5. Many chapters have been completely rewritten to bring them in line with today's best web development practices. New chapters in this edition document jQuery and server side JavaScript. It's recommended for experienced programmers who want to learn the programming language of the Web, and for current JavaScript programmers who want to master it. \"A must-have reference for expert JavaScript programmers...well-organized and detailed.\" —Brendan Eich, creator of JavaScript, CTO of Mozilla",
+        "comments": []
+      }
+    ]
+  }
+]

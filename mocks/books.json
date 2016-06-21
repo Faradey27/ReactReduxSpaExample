@@ -1,0 +1,41 @@
+[
+  {
+    "name": "JavaScript: The Good Parts",
+    "img": "http://akamaicovers.oreilly.com/images/9780596517748/cat.gif",
+    "title": "",
+    "authors": ["Douglas Crockford"],
+    "genre": ["Computers & Technology", "Programming", "JavaScript"],
+    "language": "English",
+    "numberOfPages": "176",
+    "rating": 9,
+    "shortDescription": "Unearthing the Excellence in JavaScript",
+    "description": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole—a subset you can use to create truly extensible and efficient code.",
+    "comments": []
+  },
+  {
+    "name": "JavaScript: The Definitive Guide: Activate Your Web Pages (Definitive Guides)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51WD-F3GobL._SX258_BO1,204,203,200_.jpg",
+    "title": "",
+    "authors": ["David Flanagan"],
+    "genre": ["Computers & Technology", "Programming", "JavaScript"],
+    "language": "English",
+    "numberOfPages": "1096",
+    "rating": 8,
+    "shortDescription": "Activate Your Web Pages",
+    "description": "Since 1996, JavaScript: The Definitive Guide has been the bible for JavaScript programmers—a programmer's guide and comprehensive reference to the core language and to the client-side JavaScript APIs defined by web browsers. The 6th edition covers HTML5 and ECMAScript 5. Many chapters have been completely rewritten to bring them in line with today's best web development practices. New chapters in this edition document jQuery and server side JavaScript. It's recommended for experienced programmers who want to learn the programming language of the Web, and for current JavaScript programmers who want to master it. \"A must-have reference for expert JavaScript programmers...well-organized and detailed.\" —Brendan Eich, creator of JavaScript, CTO of Mozilla",
+    "comments": []
+  },
+  {
+    "name": "The Ruby Programming Language",
+    "img": "http://akamaicovers.oreilly.com/images/9780596516178/cat.gif",
+    "title": "",
+    "authors": ["Douglas Crockford"],
+    "genre": ["Computers & Technology", "Programming", "Ruby"],
+    "language": "English",
+    "numberOfPages": "448",
+    "rating": 7,
+    "shortDescription": "The Ruby Programming Language is the authoritative guide to Ruby and provides comprehensive coverage of versions 1.8 and 1.9 of the language. It was written (and illustrated!) by an all-star team:",
+    "description": "The Ruby Programming Language is the authoritative guide to Ruby and provides comprehensive coverage of versions 1.8 and 1.9 of the language. It was written (and illustrated!) by an all-star team:",
+    "comments": []
+  }
+]
